@@ -14,7 +14,7 @@ de sistemas em produção, tratamento de incidentes e trabalho em equipe. Busco 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 My Stacks
 
 <img 
     align="left" 
@@ -96,13 +96,31 @@ de sistemas em produção, tratamento de incidentes e trabalho em equipe. Busco 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img
+    align="left" 
+    alt="MySQL"
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+/>
+<img
+    align="left" 
+    alt="Postgres" 
+    title="Postgres"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  
+/>
 
 <br/>
 <br/>
 
 ## 📊 Estatísticas
 
+<div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=williansteinx&theme=dark&short_numbers=true" alt="GitHub Streak" /></a>
+</div>    
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/williansteinx/williansteinx/output/github-contribution-grid-snake-dark.svg">
