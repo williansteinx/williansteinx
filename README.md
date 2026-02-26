@@ -1,20 +1,20 @@
 # 👩🏻‍💻 Olá, eu sou o Willian!
 
-**`Desenvolvedor FullStack`**
+**`FullStack Developer`**
 
 Sou estudante do 5° semestre de Análise e Desenvolvimento de Sistemas do IFSul. Com experiência acadêmica em
 desenvolvimento web utilizando Laravel, React, JavaScript, PostgreSQL e MySQL. Desenvolvi projetos
 completos envolvendo autenticação, CRUD, integração com banco de dados e interfaces
 responsivas. Atualmente, busco minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário.
 
-## 💼 **Experiência Profissional**
+## 💼 **Professional Experience**
 
 Possuo mais de 3 anos de vivência em ambientes corporativos de suporte técnico, o que me trouxe visão
 de sistemas em produção, tratamento de incidentes e trabalho em equipe. Busco uma oportunidade para evoluir como desenvolvedor e contribuir em projetos reais.
 
 ---
 
-### 🤖 My Stacks
+## 🤖 My Stacks
 
 <img 
     align="left" 
@@ -116,7 +116,7 @@ de sistemas em produção, tratamento de incidentes e trabalho em equipe. Busco 
 <br/>
 <br/>
 
-## 📊 Estatísticas
+## 📊 Stats
 
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=williansteinx&theme=dark&short_numbers=true" alt="GitHub Streak" /></a>
