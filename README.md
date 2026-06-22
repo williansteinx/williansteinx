@@ -5,12 +5,7 @@
 Sou estudante do 5° semestre de Análise e Desenvolvimento de Sistemas do IFSul. Com experiência acadêmica em
 desenvolvimento web utilizando Laravel, React, JavaScript, PostgreSQL e MySQL. Desenvolvi projetos
 completos envolvendo autenticação, CRUD, integração com banco de dados e interfaces
-responsivas. Atualmente, busco minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário.
-
-## 💼 **Professional Experience**
-
-Possuo mais de 3 anos de vivência em ambientes corporativos de suporte técnico, o que me trouxe visão
-de sistemas em produção, tratamento de incidentes e trabalho em equipe. Busco uma oportunidade para evoluir como desenvolvedor e contribuir em projetos reais.
+responsivas.
 
 ---
 
