@@ -2,8 +2,8 @@
 
 **`FullStack Developer`**
 
-Sou estudante do 5° semestre de Análise e Desenvolvimento de Sistemas do IFSul. Com experiência acadêmica em
-desenvolvimento web utilizando Laravel, React, JavaScript, PostgreSQL e MySQL. Desenvolvi projetos
+Sou estudante do 5° semestre de Análise e Desenvolvimento de Sistemas do IFSul, com experiência acadêmica em
+desenvolvimento web utilizando Laravel, React, JavaScript, PostgreSQL e MySQL, desenvolvi projetos
 completos envolvendo autenticação, CRUD, integração com banco de dados e interfaces
 responsivas.
 
